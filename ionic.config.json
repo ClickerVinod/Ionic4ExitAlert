@@ -1,0 +1,7 @@
+{
+  "name": "Ionic4ExitAlert",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
