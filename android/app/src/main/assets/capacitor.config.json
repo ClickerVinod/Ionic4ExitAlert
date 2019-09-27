@@ -1,0 +1,7 @@
+{
+  "appId": "com.clickertech.ionic4exitalert",
+  "appName": "Ionic4ExitAlert",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
